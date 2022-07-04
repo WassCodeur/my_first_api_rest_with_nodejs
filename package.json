@@ -1,0 +1,22 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "This is my project with Node js, and I would like to develop a small rest api that will allow to manage and serve my web page to different clients",
+  "main": "first_app_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WassCodeur/my_first_with_nodejs.git"
+  },
+  "keywords": [
+    "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"
+  ],
+  "author": "WassCodeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WassCodeur/my_first_with_nodejs/issues"
+  },
+  "homepage": "https://github.com/WassCodeur/my_first_with_nodejs#readme"
+}
